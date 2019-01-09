@@ -15,7 +15,7 @@ int main(){
 	while(n<=n2){
 		flag=0;
 		i=2;
-		while(I<=n/2)
+		while(i<=n/2)
 		{
 			if(n%i==0)
 			{
